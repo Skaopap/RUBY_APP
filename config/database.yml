@@ -27,9 +27,8 @@ development:
 
 test:
   <<: *default
-  database: myuser_test
-  username: myuser
-  password: password
+  database: postgres
+  username: postgres
 
 production:
   <<: *default
