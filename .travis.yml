@@ -11,4 +11,4 @@ deploy:
   provider: heroku
   api_key:
     secure: 837952df-ce61-4973-b65b-572ddc852153
-  app: ruby-app
+  app: rubyappli
